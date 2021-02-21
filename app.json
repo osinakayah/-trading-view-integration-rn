@@ -1,0 +1,12 @@
+{
+  "name": "trading-view-integration-rn",
+  "displayName": "trading-view-integration-rn",
+  "expo": {
+    "name": "trading-view-integration-rn",
+    "slug": "trading-view-integration-rn",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
